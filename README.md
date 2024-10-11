@@ -5,7 +5,7 @@ This repo is intended to share the Congruence Engine’s experiments with fine-t
 
 
 
-## Research question(s):
+## Research questions:
 - How useful are Universal NER models in the context of museums cultural heritage?
 - What kinds of linkage do these new models lead to?
 
@@ -24,6 +24,25 @@ Investigation, Data curation, Formal analysis, Methodology, Writing
 Methodology, Software 
 
 
+## Data sources (used or developed):
+- GLiNER machine learning NER model (Huggingface)
+- Textile machinery datasets from Science Museum, National Wool Museum, and Bradford Industrial Museum
+- Various textile glossaries sourced from archive.org. 
+
+
+
+## Investigation methods/ tools/ code/ software (used or developed)
+- Named Entity Recognition
+- Text Classification
+- Large Language Models including Chat GPT
+
+
+## Outputs  
+- Fine-tuned GLiNER models
+- Hugginface demo of the fine-tuned model in action
+- Google Colab notebook tutorial on how to fine-tune the model in the context of cultural heritage (to be completed)
+
+
+
 ## Licence 
 This work is licensed under a [Creative Commons Attribution 4.0 License - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
