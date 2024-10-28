@@ -24,14 +24,14 @@ Investigation, Data curation, Formal analysis, Methodology, Writing
 Methodology, Software 
 
 
-## Data sources (used or developed):
+## Data sources 
 - GLiNER machine learning NER model (Huggingface)
 - Textile machinery datasets from Science Museum, National Wool Museum, and Bradford Industrial Museum
 - Various textile glossaries sourced from archive.org. 
 
 
 
-## Investigation methods/ tools/ code/ software (used or developed)
+## Investigation methods/ tools/ code/ software 
 - Named Entity Recognition
 - Text Classification
 - Large Language Models including Chat GPT
