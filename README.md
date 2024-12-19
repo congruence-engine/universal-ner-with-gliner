@@ -1,7 +1,7 @@
 # Universal Named Entity Recognition (NER) with GLiNER
 
 ## Short summary
-This repo is intended to share the Congruence Engine’s experiments with fine-tuning a version of the GLiNER (Generalist and Lightweight Model for Named Entity Recognition) model. This model is part of a new wave of NER models commonly referred to as ‘Universal NER’ – the key distinction from traditional NER being that the model is not restricted to previously established entity types, but can entities based on user-defined labels. 
+This repo is intended to share the Congruence Engine’s experiments with fine-tuning a version of the [GLiNER (Generalist and Lightweight Model for Named Entity Recognition)](https://github.com/urchade/GLiNER) model. This model is part of a new wave of NER models commonly referred to as ‘Universal NER’ – the key distinction from traditional NER being that the model is not restricted to previously established entity types, but can extract entities based on user-defined labels. 
 
 
 
