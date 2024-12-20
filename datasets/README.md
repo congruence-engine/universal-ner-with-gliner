@@ -1,5 +1,5 @@
 ## NER Datasets
-This file contains datasets created at various stages of the NER/GLiNER investigation for the purpose of fine-tuning a GLiNER model. Some of these datasets have been optimised for training a GLiNER model, while others were produced in the course of data gathering but may still prove useful for other cultural heritage NER projects. 
+This file contains datasets created at various stages of the NER/GLiNER investigation for the purpose of fine-tuning a GLiNER model. Some of these datasets have been optimised for fine-tuning a [GLiNER model](https://github.com/urchade/GLiNER), while others were produced in the course of data gathering but may still prove useful for other cultural heritage NER projects. 
 
 ## Overview
 Datasets contained here:
