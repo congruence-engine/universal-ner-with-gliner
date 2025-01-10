@@ -1,6 +1,8 @@
 ## NER Datasets
 This file contains datasets created at various stages of the NER/GLiNER investigation for the purpose of fine-tuning a GLiNER model. Some of these datasets have been optimised for fine-tuning a [GLiNER model](https://github.com/urchade/GLiNER), while others were produced in the course of data gathering but may still prove useful for other cultural heritage NER projects. 
 
+You can view the GLiNER model fine-tuned by the *Congruence Engine* project [here](https://huggingface.co/congruence-engine/gliner_2.5_textile_industry_historic).
+
 ## Overview
 Datasets contained here:
 * ***all-glossaries-classified-6-dec-4o-OR.csv***: a CSV file containing extracted terms and definitions from textile glossaries in four specialist books published in the United Kingdom and the United States between 1884 and 1932.
