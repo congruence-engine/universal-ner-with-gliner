@@ -45,7 +45,7 @@ Data curation
 
 
 ## Outputs  
-- Fine-tuned GLiNER models
+- [Fine-tuned GLiNER model](https://huggingface.co/congruence-engine/gliner_2.5_textile_industry_historic)
 - Huggingface demo of the fine-tuned model in action
 - Google Colab notebook tutorial on how to fine-tune the model in the context of cultural heritage
 - Forthcoming book chapter in *Emergent Histories: New Work in the Digital History of Industry and Collections from the Congruence Engine Project*
