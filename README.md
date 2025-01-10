@@ -3,6 +3,8 @@
 ## Short summary
 This repo is intended to share the Congruence Engine’s experiments with fine-tuning a version of [GLiNER (Generalist and Lightweight Model for Named Entity Recognition)](https://github.com/urchade/GLiNER). This Named Entity Recognition (NER) model is part of a new wave of NER models commonly referred to as ‘Universal NER’ – the key distinction from traditional NER being that the model is not restricted to previously established entity types, but can extract entities based on user-defined labels. 
 
+You can view the fine-tuned model developed by the project (along with documentation) by visiting its [model card on Huggingface](https://huggingface.co/congruence-engine/gliner_2.5_textile_industry_historic). 
+
 
 
 ## Research questions:
